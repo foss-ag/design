@@ -1,0 +1,3 @@
+[submodule "t-shirt-2"]
+	path = t-shirt-2
+	url = git@github.com:Scosh/foss-ag_t-shirt-2.git
