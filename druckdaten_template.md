@@ -15,3 +15,4 @@ dass bei 4mm Sicherheitsabstand die Bildelemente eine größe von maximal 62mm i
 Bei den Druckdateien in den Repos der FOSS-AG hat sich das folgende Namensschema für die Druckdaten etabliert:
 
 `<Druckprodukt>-<Name>_<Größe>+<Beschnitt>.<dateityp>`
+Beispiel: `sticker-logo_70mm+3mm.pdf`
