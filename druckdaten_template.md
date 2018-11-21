@@ -17,3 +17,5 @@ Bei den Druckdateien in den Repos der FOSS-AG hat sich das folgende Namensschema
 `<Druckprodukt>-<Name>_<Größe>+<Beschnitt>.<dateityp>`
 
 Beispiel: `sticker-logo_70mm+3mm.pdf`
+
+Beispiel: `sticker-linux-rettet_196x42mm+3mm.pdf`
