@@ -31,4 +31,4 @@ git submodule add <repo-url> <path>
 `<path>`: Ordnername und -pfad unterhalb des Design-Repos, in den das Submodul eingebunden werden soll.
 
 ### Releases
-Um die Corporate Identity besser nutzen zu können, sollten von jeder Source-Datei Releases erstellt werden, in Ausgangsformate wie `.png` und `.pdf`.
+Um die Corporate Identity besser nutzen zu können, sollten von jeder Source-Datei Releases erstellt werden, in Ausgangsformaten wie `.png` und `.pdf`.
