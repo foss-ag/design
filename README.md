@@ -1,9 +1,7 @@
-# design
-
 ## Klonen
 Dieses Repo benutzt [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Um das Repo mit all seinen Inhalten zu klonen, muss folgendes gemacht werden.
 
-```git
+```bash
 git clone git@github.com:foss-ag/design.git
 git submodule init
 git submodule update
@@ -22,7 +20,7 @@ Um neue Formen der Corporate-Identity zu erstellen, lege sie entsprechend der St
 ### Spezifische (Druck-)Produkte
 Da spezifische Druckprodukte häufig in leicht abgewandelter Form die Corporate-Identity enthalten bzw. zusätzliche Designmerkmale und -elemente beinhalten, werden diese als Submodul hinzugefügt d.h. als eigenes Repo.
 
-```git
+```bash
 git submodule add <repo-url> <path>
 ```
 
