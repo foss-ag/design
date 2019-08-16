@@ -1,9 +1,9 @@
 [submodule "t-shirt-2"]
 	path = t-shirt-2
 	url = git@github.com:Scosh/foss-ag_t-shirt-2.git
-[submodule "sticker-linux-rettet"]
-	path = sticker-linux-rettet
-	url = git@github.com:Scosh/foss-ag_sticker-linux-rettet.git
 [submodule "sticker-logo"]
 	path = sticker-logo
 	url = git@github.com:Scosh/foss-ag_sticker-logo.git
+[submodule "sticker-linux-rettet"]
+	path = sticker-linux-rettet
+	url = git@github.com:Scosh/foss-ag_sticker-linux-rettet.git
