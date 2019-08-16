@@ -1,3 +1,6 @@
+# design
+In diesem Repo werden alle Designprojekte der FOSS-AG zusammengefasst und ihre Source-Dateien veröffentlicht.
+
 ## Klonen
 Dieses Repo benutzt [Git Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Um das Repo mit all seinen Inhalten zu klonen, muss folgendes gemacht werden.
 
