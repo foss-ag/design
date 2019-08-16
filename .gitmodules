@@ -4,3 +4,6 @@
 [submodule "foss-ag_sticker-linux-rettet"]
 	path = foss-ag_sticker-linux-rettet
 	url = git@github.com:Scosh/foss-ag_sticker-linux-rettet.git
+[submodule "sticker-logo"]
+	path = sticker-logo
+	url = git@github.com:Scosh/foss-ag_sticker-logo.git
